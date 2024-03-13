@@ -31,7 +31,7 @@
 <br/>
 
 ## Top of my Project -
-[![iTasks](https://github.com/Samuelgnitr/Story-of-life)](https://github.com/Samuelgnitr/itasks)
+[![iTasks](https://github.com/Samuelgnitr/Story-of-life)](https://github.com/alsiam/itasks).
 <!--
 **Samuelgnitr/SamuelGnitr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
