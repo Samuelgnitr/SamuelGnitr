@@ -31,7 +31,7 @@
 <br/>
 
 ## Top of my Project -
-[![iTasks](https://github.com/Samuelgnitr/Story-of-life)](https://github.com/alsiam/itasks).
+[![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/itasks).
 <!--
 **Samuelgnitr/SamuelGnitr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
